@@ -33,6 +33,4 @@ public class CadastroDAO {
             e.printStackTrace();
         }
     }
-
-    // Implementar métodos de consultar, atualizar e excluir
 }
